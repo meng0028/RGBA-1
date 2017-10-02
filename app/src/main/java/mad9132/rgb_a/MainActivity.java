@@ -16,6 +16,8 @@ import java.util.Observer;
 import model.RGBAModel;
 
 /**
+ *
+ *  test 
  * The Controller for RGBAModel.
  *
  * As the Controller:
