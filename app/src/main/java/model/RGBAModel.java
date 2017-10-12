@@ -15,6 +15,8 @@ import android.graphics.Color;
  *
  * @author Gerald.Hurdle@AlgonquinCollege.com
  * @version 1.0
+ *
+ * THIS IS A TEST OF PUSH TO GITHUB.
  */
 public class RGBAModel extends Observable {
 
